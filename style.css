@@ -5,6 +5,7 @@ div {
 }
 hr {
   border: thin solid #ffd877;
+  margin-bottom: 0;
 }
 nav p {
   background-color: #fdfbf1;
