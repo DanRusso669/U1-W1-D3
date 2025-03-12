@@ -1,0 +1,68 @@
+div {
+  margin: auto;
+  height: 100vw;
+  width: 38%;
+}
+nav p {
+  border-top: thin solid #ffd877;
+  background-color: #fdfbf1;
+  text-align: center;
+  color: #004d4c;
+  padding: 1rem;
+}
+img {
+  display: block;
+  margin: auto;
+}
+main h1 {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings: "SOFT" 0, "WONK" 0;
+  text-align: center;
+}
+main p {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "SOFT" 0, "WONK" 0;
+  font-size: large;
+}
+#autor {
+  text-align: center;
+  margin: auto;
+  color: #999999;
+}
+#ingredients {
+  border-bottom: thin solid #c4f3f2;
+  padding-bottom: 1em;
+}
+#feature {
+  border-left: thin solid #ffd877;
+  padding-left: 1em;
+}
+#feature span {
+  color: #b5460f;
+}
+article {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "SOFT" 0, "WONK" 0;
+  font-size: large;
+}
+
+footer {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "SOFT" 0, "WONK" 0;
+  font-size: large;
+}
+h5 {
+  font-size: large;
+}
