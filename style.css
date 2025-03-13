@@ -7,14 +7,16 @@ hr {
   border: thin solid #ffd877;
   margin-bottom: 0;
 }
-nav p {
-  background-color: #fdfbf1;
+header {
   text-align: center;
+}
+header p {
+  background-color: #fdfbf1;
   color: #004d4c;
   padding: 1rem;
   margin-top: 0;
 }
-img {
+#focaccia {
   display: block;
   margin: auto;
   max-width: 100%;
